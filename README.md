@@ -14,7 +14,7 @@
 
 ```mermaid
 gantt
-    title 충청도 맛집 프로젝트 일정 (2025년 6월 10일 ~ 6월 12일)
+    title 뉴스 요약 서비스 (2025년 6월 10일 ~ 6월 12일)
     dateFormat  YYYY-MM-DD
     section 계획 및 설계
     아이디어 정리 및 역할 분담         :done,  task1, 2025-06-10, 0.5d
