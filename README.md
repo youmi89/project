@@ -35,3 +35,6 @@ gantt
     기능 통합 및 전체 테스트          :        task10, 2025-06-12, 0.5d
     발표 자료 준비 및 시연 준비       :        task11, 2025-06-12, 0.5d '''
 
+![KakaoTalk_20250612_164020304](https://github.com/user-attachments/assets/136eda03-e0ba-47d4-af96-5b8e1df0bc05)
+![KakaoTalk_20250612_164216133](https://github.com/user-attachments/assets/c33dcc76-3191-4ed2-a5ad-0056668f368a)
+
