@@ -35,5 +35,8 @@ gantt
     기능 통합 및 전체 테스트          :        task10, 2025-06-12, 0.5d
     발표 자료 준비 및 시연 준비       :        task11, 2025-06-12, 0.5d '''
 
+![Image](https://github.com/user-attachments/assets/aa1e7ba8-939d-4789-855c-def85cc4e273)
+
+![Image](https://github.com/user-attachments/assets/20d5310f-dc86-4e42-97a0-be87690437fc)
 
 
