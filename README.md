@@ -17,14 +17,12 @@
 . 가상환경 생성 및 활성화
 
 백엔드 환경설정
- ####가상환경 생성
+
+####가상환경 생성
 python -m venv .venv
 
 #### 가상환경 활성화 (Windows)
 .\.venv\Scripts\activate
-
-#### 가상환경 활성화 (macOS/Linux)
-source .venv/bin/activate
 
 ```mermaid
 gantt
